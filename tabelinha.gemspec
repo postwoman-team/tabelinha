@@ -6,6 +6,7 @@ Gem::Specification.new do |s|
   s.authors     = ['Hikari Luz']
   s.email       = 'hikaridesuyoo@gmail.com'
   s.files       = ['lib/table.rb']
+  s.files      += Dir["doc/**/*"]
   s.homepage    =
     'https://github.com/Hikari-desuyoo/tabelinha'
   s.license = 'GPL-2.0'
